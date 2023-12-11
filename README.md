@@ -1,7 +1,7 @@
 ## Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 ## Sou o Samuel Juren <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-<p>I'm a <strong>Technology Enthusiast</strong> 💻 😃 passionate about learning and working with new technologies. I love building interesting and functional products that are used to help and make someone else's life easier.</p>
+<p>Sou um <strong>Entusiasta de Tecnologia</strong> 💻 😃 apaixonado por aprender e trabalhar com novas tecnologias. Adoro construir produtos interessantes e funcionais que servem para ajudar e facilitar a vida de outras pessoas.</p>
 
 ## Talk to me 📱
 
