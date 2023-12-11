@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 <div>
-  <a href="https://github.com/jehveiga">
+  <a href="https://github.com/samjuren">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samjuren&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjuren&layout=compact&lang_count=16&theme=tokyonight">
   </a>
@@ -18,7 +18,7 @@
 
 <br/>
 
-<h2>Technology I study and use daily
+<h2>Tecnologia que estudo
   <img align="center" src="https://media0.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif?cid=ecf05e47802sgiy2w5q0ybug4ncwjadownwtcb7fwitn62jz&rid=giphy.gif&ct=s" height="45" width= 40px>
 </h2>
 
