@@ -1,7 +1,7 @@
 ## Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 ## Sou o Samuel Juren <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-<p>Sou Programador <strong>C# | Mobile | Web</strong> 💻 😃 busco sempre estar apto ao mercado de trabalho, realizando projetos pessoais e cursos. Tenho altos conheciementos em C# | Xamarin.Forms | .NET MAUI | Web Forms | ASP NET Core | e arquitetura MVVM e MVC </p>
+<p>Sou Programador <strong>C# | Mobile | Web</strong> 💻 😃 busco sempre estar apto ao mercado de trabalho, realizando projetos pessoais e cursos. Sólidos conheciementos em C# | Xamarin.Forms | .NET MAUI | Web Forms | ASP NET Core | e arquitetura MVVM e MVC </p>
 
 ## Talk to me 📱
 
