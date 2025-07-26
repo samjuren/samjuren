@@ -34,18 +34,6 @@ Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/samjuren">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samjuren&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjuren&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 ---
 
 ### 📱 Onde me encontrar
@@ -68,7 +56,3 @@ Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções
 
 > “Código limpo é como humor — quando você tem que explicar, não é tão bom.”  
 > _– Martin Fowler_
-
----
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="coding animation" />
