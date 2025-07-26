@@ -3,8 +3,6 @@
 <h2>Eu sou o <span style="color:#6366f1">Samuel Juren</span> 👨‍💻</h2>
 <h3>Desenvolvedor Fullstack & Mobile focado em performance, qualidade e experiência do usuário.</h3>
 
----
-
 ### 🚀 Sobre mim
 
 Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções modernas, performáticas e escaláveis. Tenho experiência com desenvolvimento de apps multiplataforma, aplicações web robustas e APIs completas, utilizando boas práticas de arquitetura de software.
@@ -14,8 +12,6 @@ Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções
 - Arquitetura MVVM / MVC
 - Firebase • Azure • REST APIs
 - SQL Server • PostgreSQL • MongoDB
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -34,7 +30,6 @@ Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
----
 
 ### 📱 Onde me encontrar
 
@@ -49,10 +44,3 @@ Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
-
----
-
-### 🧠 Fun Fact
-
-> “Código limpo é como humor — quando você tem que explicar, não é tão bom.”  
-> _– Martin Fowler_
