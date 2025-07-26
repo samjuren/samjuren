@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="35"/></h1>
 <h2 align="center">Eu sou o <span style="color:#6366f1">Samuel Juren</span> 👨‍💻</h2>
 <h3 align="center">Desenvolvedor Fullstack & Mobile focado em performance, qualidade e experiência do usuário.</h3>
@@ -19,7 +20,7 @@ Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  
+
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -71,4 +72,3 @@ Atuo como desenvolvedor **Fullstack & Mobile**, com foco em construir soluções
 ---
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="coding animation" />
-
