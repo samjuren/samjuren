@@ -1,21 +1,34 @@
-## Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-## Sou o Samuel Juren <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+## Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" />
+## Eu sou o Samuel Juren <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" />
 
-<p>Sou Programador <strong>C# | Mobile | Web</strong> 💻 😃 busco sempre estar apto ao mercado de trabalho, realizando projetos pessoais e cursos. Sólidos conheciementos em C# | Xamarin.Forms | .NET MAUI | Web Forms | ASP NET Core | e arquitetura MVVM e MVC </p>
+### 👨‍💻 Desenvolvedor Fullstack & Mobile
+Atuo com desenvolvimento de aplicações **Mobile e Web** com foco em performance, boas práticas e experiência do usuário.
 
-## Talk to me 📱
+Sou apaixonado por criar soluções modernas usando:
+- **.NET MAUI**, **React Native** e **Xamarin.Forms** para apps mobile
+- **ASP.NET Core**, **Node.js**, **React.js** e **Web Forms** no backend e frontend
+- Arquiteturas como **MVVM** e **MVC**, com domínio de **C#**, **TypeScript** e **JavaScript**
+- Integrações com **Firebase**, **Azure**, **REST APIs** e bancos como SQL Server e PostgreSQL
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-juren-97145a239/)
+Estou sempre aprendendo, testando novas tecnologias e desenvolvendo projetos pessoais ou colaborando com times reais.
+
+---
+
+## 📞 Fale comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-juren-97145a239/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ssjuren/)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samueljuren.dev) <!-- Se tiver um portfólio online -->
 
-<div>
-  <a href="https://github.com/samjuren">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samjuren&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjuren&layout=compact&lang_count=16&theme=tokyonight">
-  </a>
-</div>
+---
 
-<br/>
+## ⚙️ Tecnologias e Ferramentas
 
-<br/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+```csharp
+💻 Linguagens: C#, TypeScript, JavaScript  
+📱 Mobile: .NET MAUI, Xamarin.Forms, React Native  
+🌐 Web: ASP.NET Core, React.js, Node.js, Web Forms  
+🧠 Arquitetura: MVVM, MVC  
+🛠️ DevOps: Azure DevOps, GitHub Actions  
+🔥 Firebase | ☁️ Azure | 🧩 REST APIs  
+🗃️ SQL Server | PostgreSQL | MongoDB
