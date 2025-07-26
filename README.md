@@ -1,7 +1,7 @@
 
-<h1 align="center">Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="35"/></h1>
-<h2 align="center">Eu sou o <span style="color:#6366f1">Samuel Juren</span> 👨‍💻</h2>
-<h3 align="center">Desenvolvedor Fullstack & Mobile focado em performance, qualidade e experiência do usuário.</h3>
+<h1>Olá, tudo bem?</h1>
+<h2>Eu sou o <span style="color:#6366f1">Samuel Juren</span> 👨‍💻</h2>
+<h3>Desenvolvedor Fullstack & Mobile focado em performance, qualidade e experiência do usuário.</h3>
 
 ---
 
