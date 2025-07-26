@@ -1,7 +1,7 @@
 
 <h1>Olá, tudo bem?</h1>
 <h2>Eu sou o <span style="color:#6366f1">Samuel Juren</span> 👨‍💻</h2>
-<h3>Desenvolvedor Fullstack & Mobile focado em performance, qualidade e experiência do usuário.</h3>
+<h2>**Desenvolvedor Fullstack & Mobile** focado em performance, qualidade e experiência do usuário.</h2>
 
 ### 🚀 Sobre mim
 
